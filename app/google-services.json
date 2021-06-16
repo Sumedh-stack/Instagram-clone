@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460819189980",
+    "project_id": "photorateapp",
+    "storage_bucket": "photorateapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460819189980:android:328d94b48b3853ab7ae419",
+        "android_client_info": {
+          "package_name": "com.chatt.android.photorateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460819189980-rspk1fl0n0a34j7696t9ef9nvedrltnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-IR_eU5h9eRNumPwiLT1gSSWq9OaKLgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460819189980-rspk1fl0n0a34j7696t9ef9nvedrltnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
